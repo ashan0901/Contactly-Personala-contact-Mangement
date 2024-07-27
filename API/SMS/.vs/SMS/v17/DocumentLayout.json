@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|c:\\users\\ashan\\desktop\\asp net with angular\\api\\sms\\sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|solutionrelative:sms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|c:\\users\\ashan\\desktop\\asp net with angular\\api\\sms\\sms\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|c:\\users\\ashan\\desktop\\asp net with angular\\api\\sms\\sms\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|solutionrelative:sms\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|c:\\users\\ashan\\desktop\\asp net with angular\\api\\sms\\sms\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|solutionrelative:sms\\data\\contactlydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|c:\\users\\ashan\\desktop\\asp net with angular\\api\\sms\\sms\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D87646-6F29-48F0-A1EC-2F225908A6B8}|SMS\\SMS.csproj|solutionrelative:sms\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Program.cs",
+              "RelativeDocumentMoniker": "SMS\\Program.cs",
+              "ToolTip": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Program.cs",
+              "RelativeToolTip": "SMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:35:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "SMS\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:28:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "SMS\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "SMS\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:01:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactlyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Data\\ContactlyDbContext.cs",
+              "RelativeDocumentMoniker": "SMS\\Data\\ContactlyDbContext.cs",
+              "ToolTip": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Data\\ContactlyDbContext.cs",
+              "RelativeToolTip": "SMS\\Data\\ContactlyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:55:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "SMS\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\ashan\\Desktop\\ASP NET with ANGular\\API\\SMS\\SMS\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "SMS\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:45:23.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

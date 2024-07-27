@@ -1,0 +1,70 @@
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\SMS.exe
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\SMS.deps.json
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\SMS.runtimeconfig.json
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\SMS.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\SMS.pdb
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Desktop\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.csproj.Up2Date
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.dll
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\refint\SMS.dll
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.pdb
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+C:\Users\ashan\Desktop\SMS\SMS\obj\Debug\net8.0\ref\SMS.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\appsettings.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\SMS.exe
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\SMS.deps.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\SMS.runtimeconfig.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\SMS.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\SMS.pdb
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.csproj.AssemblyReference.cache
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.AssemblyInfoInputs.cache
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.AssemblyInfo.cs
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.csproj.CoreCompileInputs.cache
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.SMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.build.SMS.props
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMS.props
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMS.props
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\scopedcss\bundle\SMS.styles.css
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.csproj.Up2Date
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\refint\SMS.dll
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.pdb
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\SMS.genruntimeconfig.cache
+C:\Users\ashan\Desktop\ASP NET with ANGular\API\SMS\SMS\obj\Debug\net8.0\ref\SMS.dll
